@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+.env
+northstar.db
+chroma_data/
+.venv
