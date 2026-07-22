@@ -26,10 +26,9 @@ class Settings(BaseSettings):
     API_V1_PREFIX: str = "/api/v1"
 
     FRONTEND_ORIGINS: str = (
-        "http://localhost:5173,"
-        "http://localhost:3000"
-    )
-
+    "https://northstarai-frontend.onrender.com,"
+    "http://localhost:5173"
+)
     # ==========================================================
     # Database
     # ==========================================================
